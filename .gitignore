@@ -1,0 +1,6 @@
+echo "dataset/" > .gitignore
+echo "*.h5" >> .gitignore
+echo "*.pth" >> .gitignore
+echo "*.pt" >> .gitignore
+echo ".venv/" >> .gitignore
+echo "__pycache__/" >> .gitignore

@@ -1,0 +1,21 @@
+1. Agricultural
+2. Airplane
+3. Baseball Diamond
+4. Beach
+5. Buildings
+6. Chaparral
+7. Dense Residential
+8. Forest
+9. Freeway
+10. Golf Course
+11. Harbor
+12. Intersection
+13. Medium Residential
+14. Mobile Home Park
+15. Overpass
+16. Parking Lot
+17. River
+18. Runway
+19. Sparse Residential
+20. Storage Tanks
+21. Tennis Court 
